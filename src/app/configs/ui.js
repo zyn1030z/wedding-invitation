@@ -302,24 +302,24 @@ const albums = [...albumA, ...albumB, ...albumC]; // for preview
 
 const metaData = {
   main: {
-    title: "Báo Hỉ Hùng - Thúy | Kính Mời",
+    title: "Báo Hỉ Thái Hùng - Linh Anh | Kính Mời",
     graphImage:
       "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/land.jpg",
   },
 
   wish: {
-    title: "Tất cả lời chúc dành cho Hùng - Thúy",
+    title: "Tất cả lời chúc dành cho Thái Hùng - Linh Anh",
     graphImage:
       "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/am11.jpg",
   },
 
   invitation: {
-    title: "Báo Hỉ | Form Nhập Tên",
+    title: "Báo Hỉ | Thái Hùng - Linh Anh",
     graphImage:
       "https://res.cloudinary.com/do6sozxbo/image/upload/v1730394150/wedding5_1/a3.jpg",
   },
   album: {
-    title: "Album của Hùng - Thúy`",
+    title: "Album của Thái Hùng - Linh Anh",
     graphImage:
       "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/final3.jpg",
   },
